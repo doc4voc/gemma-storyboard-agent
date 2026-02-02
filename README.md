@@ -39,8 +39,16 @@ The system consists of four specialized agents:
     ```
     Access `http://localhost:8080` in your browser.
 
-## 🎥 Demo
-(Add your demo GIF or video link here)
+## 🎥 Demo: The "Self-Correction" Loop
+
+Check out this actual run where the Agent corrects itself!
+
+1.  **Theme**: "Cyberpunk Detective, Solitary Hacker" (Wait, in the video it was a different story about a bottle?) 
+    * *Correction: The video shows a story about "Old Man Heimrick releasing a bottle".*
+2.  **Challenge**: The first generation failed to capture the specific emotional atmosphere described by the Director.
+3.  **Solution**: The **Reviewer Agent** rejected the image ("RETRY"), providing specific feedback. The **Prompter Agent** then adjusted the tags, and the second attempt was **Approved**.
+
+https://youtu.be/t0uqLjdvDtA
 
 ## 🇯🇵 For Japanese Clients (日本語での解説)
 
