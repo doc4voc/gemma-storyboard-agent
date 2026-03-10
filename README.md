@@ -29,14 +29,14 @@ The workflow consists of four specialized agents:
 
 2.  **Installation**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/repo-name.git](https://github.com/YOUR_USERNAME/repo-name.git)
-    cd repo-name
-    pip install -r requirements.txt
+      git clone https://github.com/doc4voc/gemma-storyboard-agent.git
+      cd gemma-storyboard-agent
+      pip install -r requirements.txt
     ```
 
 3.  **Usage**
     ```bash
-    python dashboard.py
+       python dashboard.py
     ```
     Access `http://localhost:8080` in your browser.
 
